@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhonder Quintero</h1>
 <h3 align="center">An electrical engineer passionate for software development and Computer Science.</h3>
 
-- 💬 Ask me about **react and javascript**
-
 - 📫 How to reach me **jhonderdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
