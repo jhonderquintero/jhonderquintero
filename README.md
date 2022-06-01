@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonder Quintero</h1>
-<h3 align="center">An electrical engineer passionate for software development and Computer Science.</h3>
+<h3 align="center">An electrical engineer passionate for frontend development and Computer Science.</h3>
 
 - 📫 How to reach me **jhonderdev@gmail.com**
 
